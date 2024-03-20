@@ -1,0 +1,157 @@
+[17-Aug-2023 11:29:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'Sum' at row 1 in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php:51
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 51
+[17-Aug-2023 11:29:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'Sum' at row 1 in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php:51
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 51
+[17-Aug-2023 11:30:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'Sum' at row 1 in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php:51
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 51
+[17-Aug-2023 11:30:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'Sum' at row 1 in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php:51
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 51
+[17-Aug-2023 11:30:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'Sum' at row 1 in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php:51
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 51
+[17-Aug-2023 11:31:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'Sum' at row 1 in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php:51
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 51
+[17-Aug-2023 11:31:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'Sum' at row 1 in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php:51
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 51
+[17-Aug-2023 11:31:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'Sum' at row 1 in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php:51
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 51
+[17-Aug-2023 11:32:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'Sum' at row 1 in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php:51
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 51
+[17-Aug-2023 11:32:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'Sum' at row 1 in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php:51
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 51
+[17-Aug-2023 11:32:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'Sum' at row 1 in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php:51
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 51
+[17-Aug-2023 11:33:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'Sum' at row 1 in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php:51
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 51
+[17-Aug-2023 11:33:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'Sum' at row 1 in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php:51
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 51
+[17-Aug-2023 11:33:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'Sum' at row 1 in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php:51
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 51
+[17-Aug-2023 11:34:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'Sum' at row 1 in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php:51
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 51
+[17-Aug-2023 11:34:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'Sum' at row 1 in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php:51
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 51
+[17-Aug-2023 11:34:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'Sum' at row 1 in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php:51
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 51
+[17-Aug-2023 11:35:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'Sum' at row 1 in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php:51
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 51
+[17-Aug-2023 11:35:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'Sum' at row 1 in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php:51
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 51
+[17-Aug-2023 11:35:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'Sum' at row 1 in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php:51
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 51
+[17-Aug-2023 11:36:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'Sum' at row 1 in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php:51
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 51
+[17-Aug-2023 11:36:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'Sum' at row 1 in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php:51
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 51
+[17-Aug-2023 11:36:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'Sum' at row 1 in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php:51
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 51
+[17-Aug-2023 11:37:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'Sum' at row 1 in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php:51
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 51
+[17-Aug-2023 11:37:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'Sum' at row 1 in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php:51
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 51
+[17-Aug-2023 11:38:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'Sum' at row 1 in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php:51
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 51
+[17-Aug-2023 11:40:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'Sum' at row 1 in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php:51
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 51
+[17-Aug-2023 11:41:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'Sum' at row 1 in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php:54
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php(54): PDOStatement->execute()
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 54
+[17-Aug-2023 11:43:01 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 20
+[17-Aug-2023 11:49:58 UTC] PHP Warning:  Array to string conversion in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 14
+[17-Aug-2023 11:49:58 UTC] PHP Warning:  Array to string conversion in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 181
+[17-Aug-2023 11:51:07 UTC] PHP Warning:  Array to string conversion in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 14
+[17-Aug-2023 11:51:07 UTC] PHP Warning:  Array to string conversion in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 181
+[17-Aug-2023 11:52:19 UTC] PHP Warning:  Array to string conversion in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 14
+[17-Aug-2023 11:52:19 UTC] PHP Warning:  Array to string conversion in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 181
+[17-Aug-2023 11:54:36 UTC] PHP Warning:  Array to string conversion in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 14
+[17-Aug-2023 11:57:38 UTC] PHP Warning:  Array to string conversion in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 181
+[17-Aug-2023 11:58:15 UTC] PHP Warning:  Array to string conversion in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 181
+[17-Aug-2023 12:01:41 UTC] PHP Warning:  Array to string conversion in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 14
+[17-Aug-2023 12:01:41 UTC] PHP Warning:  Array to string conversion in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 181
+[18-Aug-2023 04:29:07 UTC] PHP Warning:  Array to string conversion in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 14
+[18-Aug-2023 04:29:07 UTC] PHP Warning:  Array to string conversion in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 181
+[18-Aug-2023 04:34:01 UTC] PHP Warning:  Array to string conversion in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 14
+[18-Aug-2023 04:34:01 UTC] PHP Warning:  Array to string conversion in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 181
+[18-Aug-2023 04:36:10 UTC] PHP Warning:  Array to string conversion in /home/awapp/collectionApp/backend/collectionApp/collectionDataUpload/index.php on line 186

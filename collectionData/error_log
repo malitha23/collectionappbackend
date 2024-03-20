@@ -1,0 +1,11 @@
+[10-Jul-2023 03:52:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/durakathanapala/public_html/collectionApp/collectionData/collectionDataInsert.php:71
+Stack trace:
+#0 /home/durakathanapala/public_html/collectionApp/collectionData/collectionDataInsert.php(71): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/durakathanapala/public_html/collectionApp/collectionData/collectionDataInsert.php on line 71
+[10-Jul-2023 03:52:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/durakathanapala/public_html/collectionApp/collectionData/collectionDataInsert.php:71
+Stack trace:
+#0 /home/durakathanapala/public_html/collectionApp/collectionData/collectionDataInsert.php(71): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/durakathanapala/public_html/collectionApp/collectionData/collectionDataInsert.php on line 71
+[11-Nov-2023 03:39:57 UTC] PHP Warning:  Undefined array key "value" in /home/awapp/collectionApp/backend/collectionApp/collectionData/collectionDataInsert.php on line 37

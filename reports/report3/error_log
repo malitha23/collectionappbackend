@@ -1,0 +1,182 @@
+[15-Aug-2023 07:46:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'awapp_collectionApp.targetDayRanges' doesn't exist in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php:20
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php(20): PDO->query('SELECT day FROM...')
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 20
+[15-Aug-2023 08:15:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 10
+[15-Aug-2023 08:15:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 11
+[15-Aug-2023 08:15:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 12
+[15-Aug-2023 08:15:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'awapp_collectionApp.targetDayRanges' doesn't exist in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php:20
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php(20): PDO->query('SELECT day FROM...')
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 20
+[15-Aug-2023 08:19:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'awapp_collectionApp.targetDayRanges' doesn't exist in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php:20
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php(20): PDO->query('SELECT day FROM...')
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 20
+[15-Aug-2023 08:32:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'awapp_collectionApp.targetDayRanges' doesn't exist in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php:20
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php(20): PDO->query('SELECT day FROM...')
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 20
+[15-Aug-2023 08:36:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'awapp_collectionApp.targetDayRanges' doesn't exist in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php:20
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php(20): PDO->query('SELECT day FROM...')
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 20
+[15-Aug-2023 08:37:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'awapp_collectionApp.targetDayRanges' doesn't exist in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php:20
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php(20): PDO->query('SELECT day FROM...')
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 20
+[15-Aug-2023 08:41:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'awapp_collectionApp.targetDayRanges' doesn't exist in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php:20
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php(20): PDO->query('SELECT day FROM...')
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 20
+[15-Aug-2023 11:21:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 10
+[15-Aug-2023 11:21:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 11
+[15-Aug-2023 11:21:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 12
+[15-Aug-2023 11:21:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'awapp_collectionApp.targetDayRanges' doesn't exist in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php:20
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php(20): PDO->query('SELECT day FROM...')
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 20
+[15-Aug-2023 11:57:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'awapp_collectionApp.targetDayRanges' doesn't exist in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php:20
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php(20): PDO->query('SELECT day FROM...')
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 20
+[15-Aug-2023 16:12:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'awapp_collectionApp.targetDayRanges' doesn't exist in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php:20
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php(20): PDO->query('SELECT day FROM...')
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 20
+[15-Aug-2023 16:13:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'awapp_collectionApp.targetDayRanges' doesn't exist in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php:20
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php(20): PDO->query('SELECT day FROM...')
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 20
+[15-Aug-2023 16:15:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'awapp_collectionApp.targetDayRanges' doesn't exist in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php:20
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php(20): PDO->query('SELECT day FROM...')
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 20
+[16-Aug-2023 05:00:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 10
+[16-Aug-2023 05:00:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 11
+[16-Aug-2023 05:00:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 12
+[16-Aug-2023 05:00:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'awapp_collectionApp.targetDayRanges' doesn't exist in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php:20
+Stack trace:
+#0 /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php(20): PDO->query('SELECT day FROM...')
+#1 {main}
+  thrown in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 20
+[16-Aug-2023 05:01:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 11
+[16-Aug-2023 05:01:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 12
+[16-Aug-2023 05:01:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 13
+[16-Aug-2023 08:19:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 11
+[16-Aug-2023 08:19:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 12
+[16-Aug-2023 08:19:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 13
+[16-Aug-2023 08:20:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 11
+[16-Aug-2023 08:20:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 12
+[16-Aug-2023 08:20:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 13
+[16-Aug-2023 08:24:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 11
+[16-Aug-2023 08:24:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 12
+[16-Aug-2023 08:24:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 13
+[16-Aug-2023 08:26:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 11
+[16-Aug-2023 08:26:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 12
+[16-Aug-2023 08:26:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 13
+[16-Aug-2023 08:26:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 11
+[16-Aug-2023 08:26:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 12
+[16-Aug-2023 08:26:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 13
+[16-Aug-2023 08:26:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 11
+[16-Aug-2023 08:26:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 12
+[16-Aug-2023 08:26:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 13
+[16-Aug-2023 08:39:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 11
+[16-Aug-2023 08:39:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 12
+[16-Aug-2023 08:39:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 13
+[16-Aug-2023 09:12:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 11
+[16-Aug-2023 09:12:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 12
+[16-Aug-2023 09:12:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 13
+[16-Aug-2023 09:12:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 11
+[16-Aug-2023 09:12:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 12
+[16-Aug-2023 09:12:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 13
+[16-Aug-2023 09:15:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 11
+[16-Aug-2023 09:15:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 12
+[16-Aug-2023 09:15:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 13
+[16-Aug-2023 09:18:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 11
+[16-Aug-2023 09:18:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 12
+[16-Aug-2023 09:18:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 13
+[16-Aug-2023 09:19:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 11
+[16-Aug-2023 09:19:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 12
+[16-Aug-2023 09:19:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 13
+[16-Aug-2023 09:19:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 11
+[16-Aug-2023 09:19:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 12
+[16-Aug-2023 09:19:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 13
+[16-Aug-2023 09:22:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 11
+[16-Aug-2023 09:22:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 12
+[16-Aug-2023 09:22:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 13
+[16-Aug-2023 09:23:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 11
+[16-Aug-2023 09:23:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 12
+[16-Aug-2023 09:23:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 13
+[16-Aug-2023 09:31:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 11
+[16-Aug-2023 09:31:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 12
+[16-Aug-2023 09:31:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 13
+[16-Aug-2023 09:31:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 11
+[16-Aug-2023 09:31:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 12
+[16-Aug-2023 09:31:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 13
+[16-Aug-2023 11:40:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 11
+[16-Aug-2023 11:40:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 12
+[16-Aug-2023 11:40:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 13
+[21-Aug-2023 17:13:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 11
+[21-Aug-2023 17:13:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 12
+[21-Aug-2023 17:13:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 13
+[08-Nov-2023 09:32:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getTeamManagersCommitmentTargetsToAdminReport.php on line 13
+[08-Nov-2023 09:32:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getTeamManagersCommitmentTargetsToAdminReport.php on line 14
+[08-Nov-2023 09:32:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 11
+[08-Nov-2023 09:32:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getTeamManagersCommitmentTargetsToAdminReport.php on line 15
+[08-Nov-2023 09:32:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 12
+[08-Nov-2023 09:32:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 13
+[14-Nov-2023 04:04:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 11
+[14-Nov-2023 04:04:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getTeamManagersCommitmentTargetsToAdminReport.php on line 13
+[14-Nov-2023 04:04:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getTeamManagersCommitmentTargetsToAdminReport.php on line 14
+[14-Nov-2023 04:04:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getTeamManagersCommitmentTargetsToAdminReport.php on line 15
+[14-Nov-2023 04:04:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 12
+[14-Nov-2023 04:04:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 13
+[14-Nov-2023 04:05:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 11
+[14-Nov-2023 04:05:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 12
+[14-Nov-2023 04:05:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 13
+[14-Nov-2023 04:05:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getTeamManagersCommitmentTargetsToAdminReport.php on line 13
+[14-Nov-2023 04:05:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getTeamManagersCommitmentTargetsToAdminReport.php on line 14
+[14-Nov-2023 04:05:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getTeamManagersCommitmentTargetsToAdminReport.php on line 15
+[14-Nov-2023 04:18:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 11
+[14-Nov-2023 04:18:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 12
+[14-Nov-2023 04:18:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 13
+[14-Nov-2023 04:18:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getTeamManagersCommitmentTargetsToAdminReport.php on line 13
+[14-Nov-2023 04:18:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getTeamManagersCommitmentTargetsToAdminReport.php on line 14
+[14-Nov-2023 04:18:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getTeamManagersCommitmentTargetsToAdminReport.php on line 15
+[14-Nov-2023 10:02:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getTeamManagersCommitmentTargetsToAdminReport.php on line 13
+[14-Nov-2023 10:02:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getTeamManagersCommitmentTargetsToAdminReport.php on line 14
+[14-Nov-2023 10:02:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getTeamManagersCommitmentTargetsToAdminReport.php on line 15
+[14-Nov-2023 10:02:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 11
+[14-Nov-2023 10:02:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 12
+[14-Nov-2023 10:02:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 13
+[21-Nov-2023 06:32:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 11
+[21-Nov-2023 06:32:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getTeamManagersCommitmentTargetsToAdminReport.php on line 13
+[21-Nov-2023 06:32:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getTeamManagersCommitmentTargetsToAdminReport.php on line 14
+[21-Nov-2023 06:32:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getTeamManagersCommitmentTargetsToAdminReport.php on line 15
+[21-Nov-2023 06:32:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 12
+[21-Nov-2023 06:32:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 13
+[21-Nov-2023 11:12:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 11
+[21-Nov-2023 11:12:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 12
+[21-Nov-2023 11:12:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 13
+[21-Nov-2023 11:12:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getTeamManagersCommitmentTargetsToAdminReport.php on line 13
+[21-Nov-2023 11:12:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getTeamManagersCommitmentTargetsToAdminReport.php on line 14
+[21-Nov-2023 11:12:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getTeamManagersCommitmentTargetsToAdminReport.php on line 15
+[22-Nov-2023 04:41:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getTeamManagersCommitmentTargetsToAdminReport.php on line 13
+[22-Nov-2023 04:41:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getTeamManagersCommitmentTargetsToAdminReport.php on line 14
+[22-Nov-2023 04:41:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getTeamManagersCommitmentTargetsToAdminReport.php on line 15
+[22-Nov-2023 04:41:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 11
+[22-Nov-2023 04:41:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 12
+[22-Nov-2023 04:41:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/awapp/collectionApp/backend/collectionApp/reports/report3/getselectdaytargetachievedToAdminReport3.php on line 13
